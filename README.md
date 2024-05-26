@@ -20,8 +20,6 @@
 - I'm a full stack developer
 - I enjoy programming games
 
-<iframe style="height:300px; width:300px;" src="https://www.projectpixelbasher.com/login">
-
 ---
 
 <div align="left">
