@@ -19,7 +19,15 @@
 ### About Me :
 - I'm a full stack developer
 - I enjoy programming games
-- I an learning low level programming in Odin
+- I an learning programming in Odin
+
+---
+
+<div align="center">
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RShnitser&layout=compact&theme=vision-friendly-dark" />
+</a>
+</div>
 
 ---
 
