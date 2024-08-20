@@ -19,7 +19,7 @@
 ### About Me :
 - I'm a full stack developer
 - I enjoy programming games
-- I an learning programming in Odin
+- I am learning programming in Odin
 
 ---
 
